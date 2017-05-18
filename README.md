@@ -8,10 +8,10 @@ To start making use of this repository, do the following:
   * (**NOTE:**  Apple also offers a separate Command Line Tools suite which one can install on demand and/or if they so choose.)  
 * Open a new instance of Terminal and use it to run the following commands (this assumes you already have the relevant ones installed, of course:)  
 
-```
-cd ~/Library/Developer/Xcode
-git clone https://github.com/RandomDSdevel/Xcode-Templates.git ./Templates
-```
+  ```
+  cd ~/Library/Developer/Xcode
+  git clone https://github.com/RandomDSdevel/Xcode-Templates.git ./Templates
+  ```
 
   Please note that Xcode will likely not register that you have created a set of user-specific templates for it to display when you start a new project if you do not clone this repository into a folder of the name specified here, as Xcode, as far as I know, relies on this file path to find users' custom templates.  
 
